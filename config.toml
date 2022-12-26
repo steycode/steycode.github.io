@@ -1,0 +1,4 @@
+baseURL = 'https://steycode.github.io/'
+languageCode = 'en-us'
+title = 'Stey'
+theme = "PaperMod"
